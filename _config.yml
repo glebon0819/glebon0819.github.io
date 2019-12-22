@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Gabriel Lebon's Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Gabriel Lebon"
 description              : &description "personal description"
 url                      : https://glebon0819.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel Lebon"
-  avatar           : "profile.png"
+  avatar           : "senior_portrait.png"
   bio              : "\"It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow. --Robert Goddard, Father of Modern Rocketry\""
   location         :
   employer         :
